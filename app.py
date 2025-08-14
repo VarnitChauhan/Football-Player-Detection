@@ -8,7 +8,7 @@ from gtts import gTTS
 import io
 
 # Set API Key for Google Gemini
-os.environ["GOOGLE_API_KEY"] = "AIzaSyBj54YyHDGf1ftk1p4bOyTuNeg-FgExdMQ"
+os.environ["GOOGLE_API_KEY"] = "YOUR API KEY"
 genai.configure(api_key=os.environ["GOOGLE_API_KEY"])
 
 # Load the Gemini Model
