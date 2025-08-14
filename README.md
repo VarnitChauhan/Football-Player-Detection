@@ -11,11 +11,11 @@ The project combines **computer vision**, **generative AI**, and **text-to-speec
 -  **Face Detection** using OpenCV's Haar cascade (largest face selection).
 -  **Player Identification & Info Retrieval** using Google Gemini AI.
 -  **Detailed Player Info** including:
-  - Full Name
-  - Nationality
-  - Club
-  - Position
-  - Achievements
+   - Full Name
+   - Nationality
+   - Club
+   - Position
+   - Achievements
 -  **Voice Output** of player details using Google Text-to-Speech (`gTTS`).
 -  **Streamlit Web UI** for easy interaction.
 -  **Bounding Box Visualization** around detected player face.
