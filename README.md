@@ -1,4 +1,4 @@
-# ⚽ Football Player Detection & Information Retrieval
+#  Football Player Detection & Information Retrieval
 
 This is an **AI-powered Streamlit web app** that detects **professional football (soccer) players** from uploaded images, retrieves detailed information using **Google Gemini API**, and provides **voice output** using `gTTS`.
 
@@ -6,23 +6,23 @@ The project combines **computer vision**, **generative AI**, and **text-to-speec
 
 ---
 
-## 📌 Features
+##  Features
 
-- ✅ **Face Detection** using OpenCV's Haar cascade (largest face selection).
-- ✅ **Player Identification & Info Retrieval** using Google Gemini AI.
-- ✅ **Detailed Player Info** including:
+-  **Face Detection** using OpenCV's Haar cascade (largest face selection).
+-  **Player Identification & Info Retrieval** using Google Gemini AI.
+-  **Detailed Player Info** including:
   - Full Name
   - Nationality
   - Club
   - Position
   - Achievements
-- ✅ **Voice Output** of player details using Google Text-to-Speech (`gTTS`).
-- ✅ **Streamlit Web UI** for easy interaction.
-- ✅ **Bounding Box Visualization** around detected player face.
+-  **Voice Output** of player details using Google Text-to-Speech (`gTTS`).
+-  **Streamlit Web UI** for easy interaction.
+-  **Bounding Box Visualization** around detected player face.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **Python 3.8+**
 - [Streamlit](https://streamlit.io/) – Web app framework
@@ -34,7 +34,7 @@ The project combines **computer vision**, **generative AI**, and **text-to-speec
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 football-player-detection/
 │
@@ -105,6 +105,6 @@ If you find a bug or have suggestions, please open an issue.
 ## Author
 
 Varnit Chauhan
-B.Tech CSE Student | AI & Web Development Enthusiast
-📧 Contact: varnitchauhan97@gmail.com
-💻 GitHub:  https://github.com/VarnitChauhan
+B.Tech CSE Student | AI & Web Development Enthusiast<br>
+Contact: varnitchauhan97@gmail.com<br>
+GitHub:  https://github.com/VarnitChauhan
